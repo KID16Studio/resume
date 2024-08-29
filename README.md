@@ -1,15 +1,26 @@
 # Resume
+> A resume for a firmware engineer
+
 ![](https://miro.medium.com/max/1000/1*q0oHsN6JNQWt2amY5hagGw.gif)
 
-# Table of Contents
+
+## Table of Contents
 - [Project](#project)
 - [附錄](#附錄)
+  - [C++]()
   - [DS](#ds)
   - [Web](#web)
 
 ## Project
 
+### Idea
+### optimization
+### a part of the code
+### Video
+
 ## 附錄
+
+## C++
 
 ## DS
 `Python`
@@ -27,4 +38,15 @@
 > My Code： [Dijkstra](https://github.com/KID16Studio/resume/blob/main/DS/Dijkstra_05131011.py)
 
 ## Web
+`HTML5` `CSS3` `JavaScript`
+
+## Git
+
+
+
+
+
+
+
+
 
