@@ -1,5 +1,5 @@
 # Resume
-> A resume for a firmware engineer
+> A resume for a firmware engineering job
 
 ![](https://miro.medium.com/max/1000/1*q0oHsN6JNQWt2amY5hagGw.gif)
 
