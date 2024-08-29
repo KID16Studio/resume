@@ -29,7 +29,7 @@
 ### What is Heap Sort？ [`Click`](https://en.wikipedia.org/wiki/Heapsort)
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Heap_sort_example.gif" alt="Description" width="400">
 
-> My Code： [heap_sort](https://github.com/KID16Studio/resume/blob/main/DS/heap_sort_05131011.py)
+> My Code： [Heap Sort](https://github.com/KID16Studio/resume/blob/main/DS/heap_sort_05131011.py)
 ---
 ### What is Breadth-First Search(BFS)？ [`Click`](https://en.wikipedia.org/wiki/Breadth-first_search)
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Breadth-First-Search-Algorithm.gif" alt="Description" width="400">
