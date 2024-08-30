@@ -7,10 +7,7 @@
 ## Table of Contents
 - [Project](#project)
 - [附錄](#附錄)
-  - [C++](#c)
   - [DS](#ds)
-  - [Web](#web)
-  - [Git](#git)
 
 ## Project
 [Code](https://github.com/KID16Studio/resume/tree/main/test)
