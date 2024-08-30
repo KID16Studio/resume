@@ -14,14 +14,8 @@
 
 ## Project
 
-### Idea
-### optimization
-### a part of the code
-### Video(Results Showcase)
 
 ## 附錄
-
-## C++
 
 ## DS
 `Python`
@@ -40,12 +34,6 @@
 <img src="https://i.makeagif.com/media/1-06-2021/1LMJQ-.gif" alt="Description" width="400">
 
 > My Code： [Dijkstra](https://github.com/KID16Studio/resume/blob/main/DS/Dijkstra_05131011.py)
-
-## Web
-`HTML5` `CSS3` `JavaScript`
-
-## Git
-
 
 
 
